@@ -1,1 +1,0 @@
-# Monero mining script 

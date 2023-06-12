@@ -11,7 +11,7 @@ cd mining
 chmod u+x miner.sh
 ./mine.sh
 ```
-Don't forget to change the wallet address in mine.sh. Check your balance
+Don't forget to change the wallet address in mine.sh file. Check your balance
 [here](https://moneroocean.stream).
 
 ## Note
